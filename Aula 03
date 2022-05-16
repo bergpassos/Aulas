@@ -1,0 +1,12 @@
+listas armazenam multiplos objeto em uma únicas variável
+cada objetotem um ímdice,que indica 
+o ińdice 0 refere-se ao primeiro elemento de uma lista
+OPERAÇÔES 
+a função len () informa a quantidade de objetos em uma linha.
+listra= [8,"maria", true, -5.6] # cria uma listra com quatro 
+objetos
+print(len(listra) ) # imprime 4
+a função list () altera o tipo de um objeto para list e também para criar uma nova listra 
+minhalista= list( (45 , "olá", 6.21) ) # cria uma lista com trẽs 
+objetos 
+print (minhalista) # imprime [45, 'olá', 6.21]
